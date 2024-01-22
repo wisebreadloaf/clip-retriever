@@ -1,0 +1,19 @@
+ 
+ 
+How It Works By means of a support cable, TENSOREX C+ exerts a constant tension on the contact wire, 
+regardless of any changes in length due to temperature. The special spiral spring is firmly connected to 
+two cams on the same shaft. The degree of rotation of the shaft results in a linear variable 
+torque/moment, which is compensated for by the combination with the variable radius of the cam. This 
+produces a constant pulling force over the entire device working range. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
